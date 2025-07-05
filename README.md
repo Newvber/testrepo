@@ -1,2 +1,2 @@
 # testrepo
-I want to test the "https://api.github.com/users/{username}/events"
+I want to test the "https://api.github.com/users/Newvber/events"
